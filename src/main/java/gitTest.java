@@ -4,5 +4,6 @@ public class gitTest {
         System.out.println("master2");
         System.out.println("hot-fix1");
         System.out.println("push commit");
+        System.out.println("pull commit");
     }
 }
